@@ -22,7 +22,7 @@ body {
     font-size: 160%;
     padding: 1%;
     margin-right: -4px;
-    width: 70%;
+    width: 60%;
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
     border: none;
@@ -39,7 +39,7 @@ body {
     cursor: pointer;
     background-color: rgb(4, 0, 255);
     color: white;
-    width: 10%;
+    width: 30%;
     cursor: pointer;
 }
 
