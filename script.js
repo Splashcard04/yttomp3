@@ -51,6 +51,6 @@ convert.addEventListener(`click`, () => {
         margin-right: auto;
         cursor:pointer;
         margin-top: 2%;'
-        >Download</button>`;
+        ><i class="fa-solid fa-circle-down"></i> Download</button>`;
     });
 })
